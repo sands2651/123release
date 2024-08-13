@@ -6,6 +6,7 @@ public class Fluxxfix
 	{
 		System.out.println("August release");
 		System.out.println("Septemner release");
+		System.out.println("October release");
 	}
 
 }
